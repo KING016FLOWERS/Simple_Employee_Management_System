@@ -30,13 +30,13 @@ git clone https://github.com/your-username/simple-employee-management-system.git
 ### Frontend 
 ```bash
 cd server
-npm install
+npm install ---packages
 npm run dev
 ```
 ### Backend 
 ```bash
 cd backend
-npm install
+npm install ---packages
 npm start
 ```
 
