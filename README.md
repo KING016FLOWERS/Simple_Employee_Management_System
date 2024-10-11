@@ -40,8 +40,8 @@ npm install ---packages
 npm start
 ```
 ### Common Login Details
-'''
+```
 Email : admin@gmail.com
 password : admin 
-'''
+```
 
