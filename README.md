@@ -35,7 +35,7 @@ npm run dev
 ```
 ### Backend 
 ```bash
-cd backend
+cd server
 npm install ---packages
 npm start
 ```
