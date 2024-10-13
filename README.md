@@ -29,7 +29,7 @@ git clone https://github.com/your-username/simple-employee-management-system.git
 ```
 ### Frontend 
 ```bash
-cd server
+cd frontend
 npm install ---packages
 npm run dev
 ```
